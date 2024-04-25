@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohasinmomin-noc
-- 👀 I’m interested in DevOps , Automation , IAC , NSX , Security , Applicaiton Microsegementation. 
+- 👀 I’m interested in DevOps, Automation, IAC, NSX, Security, Applicaiton Microsegementation, Cloud Computing, Azure, AWS, Google Cloud, 
 - 🌱 I’m currently learning Azure DevOps
-- 💞️ I’m looking to collaborate on TeckTalks , Podacsts who are on any topic mention in my intrest area.  
+- 💞️ I’m looking to collaborate on Cloud DevOps & Automation Poojcts, TeckTalks , Podacsts who are on any topic mention in my intrest area.  
 - 📫 How to reach me mohasin.momin@noc.qa
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: ...
